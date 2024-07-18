@@ -1,0 +1,1 @@
+1. Application ecr-application has been successfully deployed!!
